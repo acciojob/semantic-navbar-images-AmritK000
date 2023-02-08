@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+nav ul{
+	display:flex;
+	flex-direction:row;
+	list-style:none;
+}
+nav ul li{
+	margin:0px 10px
+}
